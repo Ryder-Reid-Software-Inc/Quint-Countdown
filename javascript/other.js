@@ -1,7 +1,7 @@
 const countdown = document.querySelector(".countdown");
 
 const interval = setInterval(() => {
-  const deadline = new Date(2023, 04, 01, 12, 00, 00);
+  const deadline = new Date('19 November 2022');
 
   const current = new Date();
 
@@ -25,7 +25,7 @@ const interval = setInterval(() => {
 
   if (diff < 0) {
     clearInterval(interval);
-    countdown.innerHTML = "<h1>Here We Go!!!</h1>";
+    countdown.innerHTML = "<h1>Now In Cinemas!</h1>";
   }
 
   document.querySelector(".reset").addEventListener("click", () => {
