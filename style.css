@@ -70,6 +70,13 @@ body {
   bottom: -6rem;
 }
 
+.countdown h1 {
+  font-family: Arial Black;
+  color: rgba(243, 129, 211);
+  -webkit-text-stroke-width: 5px;   
+  -webkit-text-stroke-color: white;
+}
+
 /* Place the navbar at the bottom of the page, and make it stick */
 .navbar {
     background-color: rgb(243, 129, 211);
