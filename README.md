@@ -1,3 +1,3 @@
 # Quint-Countdown
-![repository-open-graph-template(1)](https://user-images.githubusercontent.com/82209063/199133625-49ae511a-f422-4d3d-94f7-2732c94ff421.jpg)
+![repository-open-graph-template](https://user-images.githubusercontent.com/82209063/199143732-d197180e-226e-4aaf-a88d-96e1ff2685c5.jpg)
 #
