@@ -10,7 +10,7 @@ html {
 }
 
 body {
-    overflow: hidden; /* Hide scrollbars */
+    overflow: hidden;
   }
 
 .container {
@@ -77,7 +77,6 @@ body {
   -webkit-text-stroke-color: white;
 }
 
-/* Place the navbar at the bottom of the page, and make it stick */
 .navbar {
     background-color: rgb(243, 129, 211);
     overflow: hidden;
@@ -86,7 +85,6 @@ body {
     width: 100%;
   }
   
-  /* Style the links inside the navigation bar */
   .navbar a {
     float: left;
     color: #f2f2f2;
